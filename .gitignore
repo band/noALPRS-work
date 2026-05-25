@@ -1,0 +1,39 @@
+# macOS
+.DS_Store
+
+# Emacs
+*~
+\#*\#
+
+# Python
+__pycache__
+venv
+.venv
+
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Electron cache
+*.asar
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Env files
+.env
+
+# VS Code settings
+.vscode/
+
+# baseline gitignore for MARKPUB
+# for Obsidian.md vaults
+.obsidian/*
+
+# MARKPUB
+.markpub/output/*
