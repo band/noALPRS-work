@@ -1,0 +1,8 @@
+**Arguments Against ALPRs Relating to Vulnerabilities in the Tech**
+
+* Benn Jordan’s viral video demonstrating multiple ways he was able to [hack into Flock Safety’s ALPR cameras](https://www.youtube.com/watch?v=uB0gr7Fh6lY).  
+* A 2021 story detailing a data breach in which [Russian hackers stole UK ALPR](https://www.cpomagazine.com/cyber-security/uk-police-data-leaked-to-dark-web-russian-hackers-hold-13-million-records-to-ransom/) data and held it for ransom.   
+* A 2018 story in which the Sinaloa drug cartel [hacked into ALPR-like surveillance cameras](https://www.reuters.com/world/americas/sinaloa-cartel-hacked-phones-surveillance-cameras-find-fbi-informants-doj-says-2025-06-27/) to locate and murder FBI informants.   
+* A 2025 story about an Illinois police officer who [gave his ALPR access password](https://unraveledpress.com/a-dea-agent-used-an-illinois-police-officers-flock-license-plate-reader-password-for-unauthorized-immigration-enforcement-searches/) to a DEA agent to perform unauthorized searches related to immigration enforcement.   
+* A Skagit County Superior Court ruling concluding that [Flock Safety ALPR camera images are open records](https://www.documentcloud.org/documents/26223229-20251106-ruling-25-2-00717-29-city-of-sedro-woolley-et-al-vs-jose-rodriguez/) under the Washington State Public Records Act.   
+* In 2025, Flock was accused of [not enforcing multi-factor authentication](https://www.404media.co/flock-logins-exposed-in-malware-infections-senator-asks-ftc-to-investigate-the-company/) (MFA) in their ALPR systems. 
