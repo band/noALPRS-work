@@ -1,0 +1,16 @@
+**Immigration Arguments Against ALPRs**
+
+* ALPRs are being used by ICE, who have essentially unfettered access to ALPR data in spite of numerous attempts at creating guardrails, to facilitate mass deportations.   
+  * DEA agent [used IL cop’s Flock ALPR password for immigration](https://unraveledpress.com/a-dea-agent-used-an-illinois-police-officers-flock-license-plate-reader-password-for-unauthorized-immigration-enforcement-searches/) enforcement searches.   
+  * It is very common for ICE to [access ALPR data by requesting information from local police](https://www.404media.co/ice-taps-into-nationwide-ai-enabled-camera-network-data-shows/).   
+  * Local police, federal agencies, and ICE often offer each other [back-door access to ALPRs](https://www.404media.co/emails-reveal-the-casual-surveillance-alliance-between-ice-and-local-police/) through casual, unregulated interactions and requests for information.   
+  * San Francisco PD let TX & GA cops make [1.6 million illegal searches of ALPR data](https://sfstandard.com/2025/09/08/sfpd-flock-alpr-ice-data-sharing/), including some related to immigration enforcement, in violation of state law.  
+  * Border Patrol agents accessed Auburn, IL’s Flock ALPR system [without the City’s permission](https://mynorthwest.com/local/flock-camera-system/4145213).   
+  * Richmond, VA’s ALPR system was [used for immigration enforcement](https://www.richmonder.org/atf-officials-apologize-after-using-richmond-police-database-for-immigration-enforcement/) in violation of City policy.   
+  * Federal immigration agencies [accessed Washington state’s ALPRs](https://www.king5.com/article/news/investigations/investigators/federal-immigration-accessed-washington-state-license-plate-readers/281-93b1edfe-f761-4e3f-9118-ed72e04c1864) for immigration enforcement.   
+  * A [digital loophole made drivers’ data available to ICE](https://www.reuters.com/world/democratic-led-states-are-inadvertently-sharing-drivers-data-with-ice-officials-2025-11-12/), even in Democratic-led states.   
+  * [Immigration searches have been conducted on Flock systems in the Cleveland area](https://www.cleveland.com/news/2026/05/records-show-clevelands-flock-network-used-for-immigration-searches-city-blames-flock-and-drones.html), even after safeguards implemented. The best safeguard against unwarranted searches would be not having these cameras installed throughout our communities.  
+  * The Secretary of State of Illinois [ordered shutting off  access](https://www.ilsos.gov/news/2025/august-25-2025-giannoulias-audit-finds-license-plate-reader-company-in-violation-of-state-law.html) to ALPR data to United States Custom and border protection after learning that they have gained access to Illinois license plate reader data. Another example of how these cameras can be accessed by federal agencies even though are laws put in place to prevent it.   
+* ALPRs are streams of data feeding into ICE’s tools, which are [being used to target US citizens](https://www.nytimes.com/2026/01/30/technology/tech-ice-facial-recognition-palantir.html) engaged in legal ICE watch activity.   
+* With SB 4 (2023) taking effect, any ALPR data Austin feeds into these data networks in the future will be used to carry out the State of Texas's extreme deportation scheme. 
+

@@ -1,0 +1,7 @@
+**What Are ALPRs?**
+
+Automated License Plate Readers (ALPRs) are devices affixed to infrastructure like light poles and police cruisers which take photos and sometimes video of vehicles on public roads and walkways. 
+
+The term ALPR is a misnomer \- ALPRs capture data on license plates, but they also harvest information on car passengers and pedestrians, vehicle physical appearance such as bumper stickers and damage, and even [record conversations](https://www.eff.org/deeplinks/2025/10/flocks-gunshot-detection-microphones-will-start-listening-human-voices) yards away. All of this data is harvested without our informed consent, and there is no way to opt out or request that our individual data be deleted. 
+
+The AI capability of ALPRs allows them to create individual profiles of us \- where we live and work, locations we frequent and when we are likely there \- to broker these profiles for profit. The data broker business model of ALPR vendors relies on the harvesting of consumer data without informed consent, presented to the public as a tool for public safety. In reality, the companies selling these dangerous products generate the overwhelming majority of their profits not from public safety contracts with municipalities (which are incidental to their business model), but from the selling of data collected by ALPRs. The violation of privacy rights is an inseparable feature of ALPRs, one that poses myriad threats to individuals and [to democracy itself](https://en.wikipedia.org/wiki/Mass_surveillance). 
