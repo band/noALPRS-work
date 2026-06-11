@@ -13,14 +13,31 @@ INSTRUCTIONS: Go to File \> Make A Copy \> click the “Make A Copy” button to
 \[[Look up your city council district using this tool](https://maps.austintexas.gov/GIS/CouncilDistrictMap/) →   
 Click blue “I want to” button at the top, then select “Find My Council District”\]
 
-I’m reaching out to urge the councilmember to oppose Automated License Plate Readers. 
+I’m reaching out to urge the council member to oppose Automated License Plate Readers. 
 
-* \[Core arguments against \- use tabs “Immigration” through “Erroneous Reads” to select these, or come up with your own:\]  
+* \[Core arguments against \- use links “Immigration” through “Erroneous Reads” below to select these, or come up with your own:\]  
   * Argument 1 \-   
   * Argument 2 \-   
   * Argument 3 \-   
 * Identify one alternative to ALPRs that you want to see Council take action on \-   
 * Conclusion \- 
 
-Put it all together below: 
+Put it all together below:  
+
+[[04-01-Immigration]]  
+
+[[04-02-Police Abuse]]  
+
+[[04-03-Privacy]]  
+
+[[04-04-Activists + Abortion-Seekers]]  
+
+[[04-05-ALPR Vulnerabilities]]  
+
+[[04-06-Erroneous Reads]]  
+
+[[04-07-Alternatives to ALPRs]]  
+
+[[04-08-Misc - Additional Info]]  
+
 
