@@ -8,4 +8,7 @@ license: <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons 
 recent_changes_count: 5
 sidebar: Sidebar.md
 no_edit_url_pages: null
-excluded_directories: null
+excluded_directories:
+  - ALPR-download1
+theme: forte
+
